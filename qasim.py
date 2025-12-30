@@ -1,0 +1,1 @@
+print('''Hi I am Syed Muhammad Qasim Currentlly learning python''')
